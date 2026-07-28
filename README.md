@@ -37,4 +37,4 @@ The dataset contains images of different skin disease categories that are used f
 
 The objective of this project is to explore the application of **deep learning and transfer learning for automated skin disease image classification** using DenseNet121.
 
-> ##**Disclaimer:** This project is intended for educational and research purposes only. The model's predictions should not be considered a medical diagnosis or a substitute for consultation with a qualified healthcare professional.
+> ## Disclaimer: This project is intended for educational and research purposes only. The model's predictions should not be considered a medical diagnosis or a substitute for consultation with a qualified healthcare professional.
